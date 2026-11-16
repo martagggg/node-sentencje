@@ -1,0 +1,14 @@
+{
+  "name": "sentencje",
+  "version": "1.0.0",
+  "description": "projekt na labortatoriach",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Marta Gutowska",
+  "license": "ISC",
+  "type": "module"
+}
