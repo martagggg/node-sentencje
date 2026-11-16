@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 
-const PLIK = 'dane/brak.json';
+const PLIK = 'dane/sentencje.json';
 
 async function wczytaj() {
     console.log('C. start');
